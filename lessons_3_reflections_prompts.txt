@@ -6,3 +6,6 @@ Because git can upload a version of your code that is not done yet.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Branches are labels for differente versions of the code, clone is export the content of a recipe to your local directory, and forks is a type of git clone but you can clone for a recipe of another person.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I dont know.
